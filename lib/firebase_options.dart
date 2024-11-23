@@ -44,8 +44,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyD2ubpRBABr__WfmxnPTeGB3KyG1f9jJdg',
-    appId: '1:105435914269:web:d2f27ded2b4dbab47466f4',
+   apiKey: '**************',
+    appId: '*********',
     messagingSenderId: '105435914269',
     projectId: 'dokuzn-d20f2',
     authDomain: 'dokuzn-d20f2.firebaseapp.com',
@@ -53,16 +53,16 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAld2AJL1zmRVROl2SrdbO9H3XyMtkomxE',
-    appId: '1:105435914269:android:61dbbd385709a71b7466f4',
+   apiKey: '**************',
+    appId: '*********',
     messagingSenderId: '105435914269',
     projectId: 'dokuzn-d20f2',
     storageBucket: 'dokuzn-d20f2.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBbUOq8F3Qi-U2nlfgPd5vK4hNn6BYi6wg',
-    appId: '1:105435914269:ios:c22443ee343f29a37466f4',
+    apiKey: '**************',
+    appId: '*********',
     messagingSenderId: '105435914269',
     projectId: 'dokuzn-d20f2',
     storageBucket: 'dokuzn-d20f2.appspot.com',
@@ -70,8 +70,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBbUOq8F3Qi-U2nlfgPd5vK4hNn6BYi6wg',
-    appId: '1:105435914269:ios:c50589a38f0a6ef97466f4',
+    apiKey: '**************',
+    appId: '*********',
     messagingSenderId: '105435914269',
     projectId: 'dokuzn-d20f2',
     storageBucket: 'dokuzn-d20f2.appspot.com',
